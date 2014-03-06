@@ -1,7 +1,7 @@
 {
   "name": "platform",
   "main": "platform.js",
-  "homepage": "https://github.com/Polymer-cn/platform",
+  "homepage": "https://github.com/polymer-cn/platform",
   "authors": [
     "The Polymer Authors"
   ],
@@ -13,5 +13,5 @@
   ],
   "license": "BSD",
   "private": true,
-  "version": "0.2.0"
+  "version": "0.2.1"
 }
