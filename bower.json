@@ -1,7 +1,7 @@
 {
-  "name": "platform",
+  "name": "platform-cn",
   "main": "platform.js",
-  "homepage": "https://github.com/Polymer/platform",
+  "homepage": "https://github.com/Polymer-cn/platform",
   "authors": [
     "The Polymer Authors"
   ],
