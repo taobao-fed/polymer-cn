@@ -37,7 +37,6 @@ polymer 的安装请参考[官方文档](http://www.polymer-project.org/docs/sta
 
 请查看 https://github.com/polymer-cn/platform/blob/master/CONTRIBUTING.md
 
-
 Aggregated polyfills the Polymer platform. 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-39334307-2/Polymer/platform/README)](https://github.com/igrigorik/ga-beacon)
